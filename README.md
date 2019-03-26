@@ -148,3 +148,5 @@ keys_url        | string       | masterless | URL to get authentication keys fro
 states_url      | string       | masterless | URL to get the Salt states from
 modules_url     | list(string) | masterless | URL to get Puppet modules from
 enabled_states  | list(string) | masterless | List of states/formulas to apply
+
+## New readme section
